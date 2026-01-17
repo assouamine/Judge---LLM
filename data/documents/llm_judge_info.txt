@@ -1,0 +1,9 @@
+LLM-as-a-Judge is a framework where a strong Language Model (like GPT-4, Claude 3, or Gemini Pro) is used to evaluate the outputs of other models.
+This approach automates the evaluation process, which is traditionally done by humans (expensive and slow) or by n-gram metrics like BLEU/ROUGE (which correlate poorly with human judgment for open-ended tasks).
+Metrics often evaluated include:
+- Truthfulness / Accuracy
+- Relevance to the prompt
+- Coherence and Clarity
+- Safety and Harmlessness
+
+Research shows that detailed reasoning (Chain-of-Thought) before scoring improves the judge's alignment with human annotators.

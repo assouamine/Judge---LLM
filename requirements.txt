@@ -1,0 +1,7 @@
+openai
+python-dotenv
+rich
+pandas
+chromadb
+sentence-transformers
+flask

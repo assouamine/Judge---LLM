@@ -1,0 +1,17 @@
+RAG (Retrieval-Augmented Generation) is a technique that enhances LLM accuracy by retrieving external data. 
+
+Unlike Non-RAG models that rely solely on their training data, RAG systems combine two key components:
+1. A retriever that searches through a knowledge base to find relevant documents
+2. A generator (LLM) that uses both the query and retrieved context to produce answers
+
+Benefits of RAG:
+- Improved factual accuracy through grounding in source documents
+- Ability to access up-to-date information not in the training data
+- Reduced hallucinations by providing concrete references
+- Transparency through citation of sources
+
+RAG is particularly effective for:
+- Question answering systems
+- Technical documentation queries
+- Domain-specific applications
+- Scenarios requiring verifiable information

@@ -1,0 +1,1027 @@
+UPF - GUIDE DES SCÉNARIOS ÉTUDIANTS ET SOLUTIONS
+================================================
+
+Ce document contient des situations courantes rencontrées par les étudiants de l'UPF
+avec des solutions détaillées et des procédures pas à pas.
+
+---
+
+PROCESSUS D'ADMISSION DÉTAILLÉ
+===============================
+
+SCÉNARIO 1: Lycéen marocain veut s'inscrire en Génie Informatique
+------------------------------------------------------------------
+
+ÉTAPES COMPLÈTES:
+
+1. VÉRIFICATION DES CONDITIONS (Avril-Mai):
+   - Baccalauréat requis: Sciences Mathématiques, Sciences Expérimentales, ou Sciences et Technologies
+   - Niveau recommandé: Bon niveau en mathématiques et physique
+   - Note minimale: Pas de seuil strict, mais moyenne de 12/20 recommandée
+
+2. PRÉPARATION DU DOSSIER (Mai-Juin):
+   Documents à rassembler:
+   - Photocopie certifiée conforme du Baccalauréat (après obtention)
+   - Relevés de notes du Baccalauréat (notes régionales et nationales)
+   - Relevés de notes de 1ère année Bac
+   - Extrait d'acte de naissance (moins de 3 mois)
+   - 4 photos d'identité récentes et identiques
+   - Photocopie de la CIN (recto-verso)
+   - Certificat médical (datant de moins de 3 mois)
+   - Enveloppe timbrée avec adresse
+
+3. OBTENTION DU DOSSIER:
+   Option A: Téléchargement
+   - Aller sur www.upf.ac.ma
+   - Section "Admissions"
+   - Télécharger le dossier de candidature
+   - Imprimer et remplir soigneusement
+
+   Option B: Retrait sur place
+   - Se rendre au Service des Admissions UPF
+   - Adresse: Lotissement Quaraouiyine, Route Ain Chkef, Fès
+   - Horaires: Lundi-Vendredi 9h-17h
+   - Gratuit
+
+4. DÉPÔT DU DOSSIER (Juillet):
+   - Vérifier que tous les documents sont certifiés conformes
+   - Déposer le dossier complet au Service des Admissions
+   - Ou envoyer par courrier recommandé
+   - Recevoir un récépissé de dépôt (IMPORTANT: à conserver)
+
+5. PAIEMENT DES FRAIS DE TEST (500 DH):
+   - Virement bancaire ou paiement sur place
+   - Conserver la preuve de paiement
+   - Joindre au dossier
+
+6. ÉTUDE DU DOSSIER (Juillet-Août):
+   - L'administration examine les dossiers
+   - Présélection basée sur les résultats académiques
+   - Notification par email ou SMS
+
+7. TEST D'ADMISSION (Août):
+   Si présélectionné:
+   - Convocation envoyée par email
+   - Date et heure du test précisées
+   - Se présenter 30 minutes avant avec:
+     * CIN originale
+     * Convocation imprimée
+     * Stylos (bleu et noir)
+     * Calculatrice (non programmable)
+
+   Contenu du test:
+   - Mathématiques (1h): Algèbre, Analyse, Géométrie
+   - Physique (45 min): Mécanique, Électricité
+   - Culture générale et logique (30 min)
+   - Entretien oral (15 min): Motivation, projet professionnel
+
+8. RÉSULTATS (Fin Août):
+   - Publication des résultats sur le site web
+   - Notification par email
+   - Liste d'attente possible
+
+9. INSCRIPTION DÉFINITIVE (Septembre):
+   Si admis:
+   - Se présenter au Service Scolarité avec:
+     * Tous les documents originaux
+     * Preuve de paiement des frais de scolarité (au moins 1ère tranche)
+   - Remplir la fiche d'inscription
+   - Obtenir la carte d'étudiant
+   - Recevoir l'emploi du temps
+
+10. PAIEMENT DES FRAIS DE SCOLARITÉ:
+    Génie Informatique (après Bac): 50 000 DH/an
+
+    Options de paiement:
+    - Option 1: Paiement intégral à l'inscription = 47 500 DH (réduction de 5%)
+    - Option 2: 2 tranches (25 000 DH en septembre + 25 000 DH en janvier)
+    - Option 3: 3 tranches (selon accord avec administration)
+
+11. RENTRÉE (Début Septembre):
+    - Assister à la séance d'accueil des nouveaux étudiants
+    - Visite du campus
+    - Rencontre avec les enseignants
+    - Début des cours
+
+CONSEILS:
+- Commencer les démarches tôt (ne pas attendre les résultats du Bac)
+- Préparer plusieurs photocopies de chaque document
+- Garder des copies de tous les documents déposés
+- Noter tous les numéros de contact
+- Préparer le test d'admission (réviser maths et physique)
+
+---
+
+SCÉNARIO 2: Étudiant étranger (Sénégalais) veut faire un Master en IA
+----------------------------------------------------------------------
+
+PROCÉDURE COMPLÈTE:
+
+1. VÉRIFICATION DES CONDITIONS (Janvier-Février):
+   - Licence en Informatique, Mathématiques, ou domaine connexe
+   - Équivalence de diplôme si nécessaire
+   - Niveau de français: B2 minimum (si cours en français)
+   - Niveau d'anglais: B2 minimum (si cours en anglais)
+
+2. ÉQUIVALENCE DE DIPLÔME:
+   - Contacter le Ministère de l'Éducation Nationale Marocain
+   - Ou passer par Campus France (si applicable)
+   - Délai: 2-3 mois
+   - Coût: environ 500-1000 DH
+
+3. PRÉPARATION DU DOSSIER (Mars-Avril):
+   Documents requis:
+   - Copie légalisée du passeport (valide au moins 1 an)
+   - Diplôme de Licence (traduit en français et légalisé)
+   - Relevés de notes de toutes les années universitaires
+   - Attestation d'équivalence (si obtenue)
+   - CV détaillé
+   - Lettre de motivation (2 pages)
+   - 2 lettres de recommandation (professeurs ou employeurs)
+   - Portfolio de projets (si applicable)
+   - Certificat de niveau de langue
+   - 6 photos d'identité
+   - Extrait d'acte de naissance
+   - Certificat médical
+
+4. DÉPÔT DU DOSSIER:
+   - Email: admission@upf.ac.ma ou international@upf.ac.ma
+   - Envoyer tous les documents scannés en PDF
+   - Objet: "Candidature Master IA - [Nom Prénom]"
+   - Deadline: 30 Avril
+
+5. ÉTUDE DU DOSSIER (Mai):
+   - Examen académique
+   - Évaluation de l'expérience
+   - Possible entretien en ligne (Zoom, Skype)
+
+6. RÉSULTATS (Juin):
+   - Notification par email
+   - Lettre d'admission si accepté
+
+7. PROCÉDURE VISA (Juillet-Août):
+   Si admis:
+   
+   a) Obtenir l'attestation d'inscription de l'UPF:
+      - L'UPF envoie une attestation d'inscription
+      - Document nécessaire pour le visa
+   
+   b) Préparer le dossier visa:
+      - Formulaire de demande de visa (à télécharger)
+      - Passeport original (valide 6 mois minimum)
+      - 2 photos d'identité
+      - Attestation d'inscription UPF
+      - Justificatif de ressources financières:
+        * Relevés bancaires (3 derniers mois)
+        * Attestation de prise en charge (si sponsor)
+        * Minimum: 50 000 DH/an (Master IA) + 30 000 DH (vie)
+        * Total: environ 80 000 DH pour 1ère année
+      - Attestation d'hébergement au Maroc
+      - Assurance santé internationale
+      - Certificat médical
+   
+   c) Dépôt à l'Ambassade/Consulat du Maroc:
+      - Prendre rendez-vous
+      - Déposer le dossier complet
+      - Payer les frais de visa (environ 50-100 EUR)
+   
+   d) Attente et retrait:
+      - Délai: 2-4 semaines
+      - Retirer le passeport avec visa
+
+8. PRÉPARATION DU VOYAGE (Août):
+   - Réserver le vol pour Fès ou Casablanca
+   - Prévoir arrivée 1 semaine avant la rentrée
+   - Budget voyage: 300-600 EUR selon provenance
+
+9. ARRIVÉE AU MAROC (Fin Août):
+   - Service d'accueil UPF disponible (à demander à l'avance)
+   - Transfert aéroport possible
+   
+   Premières démarches:
+   - S'installer dans le logement
+   - Ouvrir un compte bancaire marocain (recommandé)
+   - Acheter une carte SIM marocaine
+   - S'inscrire à l'UPF (présenter originaux)
+
+10. INSCRIPTION ADMINISTRATIVE:
+    - Se présenter au Service Scolarité
+    - Documents originaux requis
+    - Paiement des frais: 50 000 DH
+    - Obtenir carte d'étudiant et emploi du temps
+
+11. LOGEMENT:
+    Options:
+    - Résidences universitaires privées: 1 500-2 500 DH/mois
+    - Appartement partagé: 1 000-2 000 DH/mois par personne
+    - Studio: 2 000-3 500 DH/mois
+    
+    L'UPF peut aider à trouver un logement.
+
+12. BUDGET MENSUEL ESTIMÉ:
+    - Logement: 1 500-2 500 DH
+    - Alimentation: 1 500-2 000 DH
+    - Transport: 200-400 DH
+    - Téléphone/Internet: 100-200 DH
+    - Divers: 500-1 000 DH
+    - TOTAL: 3 800-6 100 DH/mois
+
+CONSEILS:
+- Commencer les démarches 6 mois avant la rentrée
+- Contacter le service international de l'UPF pour assistance
+- Rejoindre les groupes Facebook d'étudiants étrangers au Maroc
+- Prévoir un budget d'installation (2 000-3 000 DH)
+
+---
+
+PROBLÈMES FINANCIERS
+=====================
+
+SCÉNARIO 3: Étudiant ne peut pas payer les frais de scolarité
+--------------------------------------------------------------
+
+SOLUTIONS DISPONIBLES:
+
+1. DEMANDE DE BOURSE DE MÉRITE:
+   
+   Conditions:
+   - Excellence académique (Mention Très Bien au Bac ou moyenne >16/20)
+   - Dossier académique exceptionnel
+   - Situation financière difficile (justificatifs requis)
+   
+   Procédure:
+   - Retirer le formulaire au Service Scolarité
+   - Joindre:
+     * Relevés de notes
+     * Justificatifs de revenus familiaux
+     * Lettre de motivation
+     * Attestation de besoin (si applicable)
+   - Déposer avant le 15 septembre
+   - Décision de la commission: fin septembre
+   
+   Montants:
+   - Bourse complète: 100% des frais (très rare, 2-3 étudiants/an)
+   - Bourse partielle: 25%, 50% ou 75% des frais
+   
+   Renouvellement:
+   - Annuel, basé sur les résultats
+   - Maintenir une moyenne >14/20
+
+2. CRÉDIT-ÉTUDES BANCAIRE:
+   
+   Banques partenaires UPF:
+   
+   a) Attijariwafa Bank:
+      - Montant: jusqu'à 100 000 DH
+      - Taux: 4-6% (préférentiel étudiants)
+      - Durée: jusqu'à 7 ans
+      - Différé de remboursement: pendant les études
+      - Garantie: Caution parentale ou hypothèque
+   
+   b) Banque Populaire:
+      - Produit "Crédit Études"
+      - Montant: jusqu'à 80 000 DH
+      - Taux: 5%
+      - Remboursement: après obtention du diplôme
+   
+   c) BMCE Bank:
+      - "Pack Étudiant"
+      - Crédit + carte bancaire
+      - Conditions avantageuses
+   
+   Procédure:
+   - Se présenter à la banque avec:
+     * CIN étudiant et parents
+     * Attestation d'inscription UPF
+     * Justificatifs de revenus parents
+     * Relevés bancaires
+   - Étude du dossier: 1-2 semaines
+   - Déblocage des fonds: après accord
+
+3. ÉCHELONNEMENT DES PAIEMENTS:
+   
+   - Demander un rendez-vous au Service Financier
+   - Email: finance@upf.ac.ma
+   - Expliquer la situation
+   - Proposer un plan de paiement:
+     * Exemple: 4-5 tranches au lieu de 2
+     * Paiement mensuel possible dans certains cas
+   - Fournir des garanties (chèques post-datés)
+   - Accord écrit à signer
+
+4. TRAVAIL ÉTUDIANT:
+   
+   Opportunités:
+   - Tutorat pour étudiants juniors (UPF)
+   - Assistant de laboratoire
+   - Aide bibliothécaire
+   - Jobs hors campus:
+     * Cours particuliers (100-150 DH/heure)
+     * Freelance informatique (si compétences)
+     * Travail à temps partiel (cafés, centres d'appel)
+   
+   Attention: Ne pas compromettre les études
+
+5. AIDE D'URGENCE:
+   
+   - Pour situations exceptionnelles (décès, maladie, catastrophe)
+   - Contacter le Service Social UPF
+   - Aide ponctuelle possible (500-2 000 DH)
+   - Décision au cas par cas
+
+CONSEIL IMPORTANT:
+Ne jamais abandonner sans avoir exploré toutes les options.
+Contacter immédiatement le Service Financier en cas de difficulté.
+
+---
+
+PROBLÈMES ACADÉMIQUES
+======================
+
+SCÉNARIO 4: Étudiant en difficulté dans un cours
+-------------------------------------------------
+
+ÉTAPES À SUIVRE:
+
+1. IDENTIFIER LE PROBLÈME (Semaine 1-2):
+   - Quel cours pose problème?
+   - Pourquoi? (concepts difficiles, lacunes, méthode de travail, langue)
+   - Depuis quand?
+
+2. ACTIONS IMMÉDIATES:
+
+   a) Revoir les bases:
+      - Relire les notes de cours
+      - Refaire les exercices
+      - Consulter des ressources en ligne:
+        * YouTube (chaînes éducatives)
+        * Khan Academy
+        * Coursera, edX (cours gratuits)
+
+   b) Participer activement en cours:
+      - Poser des questions
+      - S'asseoir devant
+      - Prendre des notes détaillées
+
+   c) Rencontrer le professeur:
+      - Demander un rendez-vous (heures de permanence)
+      - Expliquer les difficultés
+      - Demander des conseils
+      - Solliciter des exercices supplémentaires
+      - Email type:
+        "Bonjour Professeur [Nom],
+        Je suis [Votre Nom], étudiant en [Programme].
+        Je rencontre des difficultés dans votre cours de [Matière].
+        Pourriez-vous me recevoir pour discuter de mes lacunes?
+        Je suis disponible [jours/heures].
+        Cordialement,"
+
+3. TUTORAT ET AIDE:
+
+   a) Tutorat par les pairs:
+      - Demander au Service Scolarité
+      - Étudiants seniors aident juniors
+      - Gratuit ou faible coût
+      - Sessions de groupe ou individuelles
+
+   b) Groupes d'étude:
+      - Former un groupe avec camarades
+      - Étudier ensemble 2-3 fois/semaine
+      - S'expliquer mutuellement les concepts
+      - Résoudre des exercices ensemble
+
+   c) Cours particuliers:
+      - Si budget disponible
+      - Professeurs ou étudiants avancés
+      - Tarif: 80-150 DH/heure
+      - Annonces sur campus ou groupes Facebook
+
+4. AMÉLIORER LA MÉTHODE DE TRAVAIL:
+
+   - Planifier le temps d'étude:
+     * 2-3 heures/jour pour matières difficiles
+     * Créer un emploi du temps réaliste
+   
+   - Techniques d'étude efficaces:
+     * Méthode Pomodoro (25 min travail, 5 min pause)
+     * Fiches de révision
+     * Mind mapping
+     * Enseigner à quelqu'un d'autre
+   
+   - Éliminer les distractions:
+     * Téléphone en mode avion
+     * Environnement calme
+     * Applications de blocage (Forest, Freedom)
+
+5. RESSOURCES UPF:
+
+   - Bibliothèque:
+     * Livres de référence
+     * Espaces d'étude calmes
+   
+   - Laboratoires informatiques:
+     * Logiciels spécialisés
+     * Assistance technique
+
+6. SUIVI ET ÉVALUATION:
+
+   - Évaluer les progrès après 2-3 semaines
+   - Ajuster la stratégie si nécessaire
+   - Ne pas attendre les examens pour agir
+
+7. SI ÉCHEC À L'EXAMEN:
+
+   - Rattrapage disponible (session de juillet)
+   - Préparer intensivement pendant l'été
+   - Possibilité de redoubler le module
+   - Consulter le règlement pédagogique
+
+IMPORTANT:
+Agir tôt! Plus vous attendez, plus c'est difficile de rattraper.
+
+---
+
+SCÉNARIO 5: Étudiant veut changer de filière
+---------------------------------------------
+
+PROCÉDURE:
+
+1. RÉFLEXION (Avant toute démarche):
+   
+   Questions à se poser:
+   - Pourquoi changer? (difficulté, manque d'intérêt, autre passion)
+   - Vers quelle filière?
+   - Est-ce une décision réfléchie ou une réaction à un échec?
+   - Ai-je exploré toutes les options dans ma filière actuelle?
+
+2. CONSULTATION:
+   
+   - Prendre rendez-vous avec le Service d'Orientation
+   - Email: orientation@upf.ac.ma
+   - Discuter de:
+     * Motivations
+     * Aptitudes
+     * Projet professionnel
+     * Compatibilité avec nouvelle filière
+
+3. CONDITIONS DE CHANGEMENT:
+
+   Période autorisée:
+   - Fin du 1er semestre (janvier)
+   - Fin de l'année académique (juin)
+   - Rarement en cours de semestre
+
+   Conditions académiques:
+   - Moyenne minimale: généralement 12/20
+   - Pas de dettes académiques majeures
+   - Compatibilité des cursus
+
+   Conditions administratives:
+   - Places disponibles dans la filière cible
+   - Accord du directeur de la nouvelle filière
+   - Accord du directeur de l'ancienne filière
+
+4. PROCÉDURE ADMINISTRATIVE:
+
+   a) Retirer le formulaire:
+      - Service Scolarité
+      - Formulaire "Demande de Réorientation"
+   
+   b) Remplir le dossier:
+      - Formulaire complété
+      - Lettre de motivation (1-2 pages)
+      - Relevés de notes
+      - CV
+      - Recommandation d'un professeur (optionnel mais recommandé)
+   
+   c) Déposer le dossier:
+      - Avant les deadlines:
+        * Changement semestriel: avant 15 janvier
+        * Changement annuel: avant 30 juin
+   
+   d) Entretien:
+      - Possible entretien avec commission
+      - Expliquer motivations
+      - Démontrer sérieux et engagement
+
+5. DÉCISION:
+   
+   - Commission étudie le dossier
+   - Décision sous 2-3 semaines
+   - Notification par email et courrier
+
+6. SI ACCEPTÉ:
+
+   - Inscription dans la nouvelle filière
+   - Validation des crédits transférables
+   - Possible mise à niveau (cours de rattrapage)
+   - Ajustement des frais de scolarité si nécessaire
+
+7. SI REFUSÉ:
+
+   - Rester dans la filière actuelle
+   - Possibilité de réessayer l'année suivante
+   - Explorer d'autres options:
+     * Spécialisations au sein de la filière
+     * Mineure dans un autre domaine
+     * Double diplôme
+
+EXEMPLES DE CHANGEMENTS POSSIBLES:
+
+- Génie Civil → Architecture: Possible (1ère année)
+- Informatique → IA et Data Science: Facile (après Licence)
+- Business → Informatique: Difficile (rattrapage maths/physique requis)
+- Sciences Infirmières → Psychologie: Possible avec validation de crédits
+
+CONSEIL:
+Bien réfléchir avant de changer. Parler à des étudiants de la filière cible.
+Assister à des cours (avec permission) pour se faire une idée.
+
+---
+
+VIE ÉTUDIANTE ET LOGEMENT
+==========================
+
+SCÉNARIO 6: Nouvel étudiant cherche un logement à Fès
+------------------------------------------------------
+
+OPTIONS ET CONSEILS:
+
+1. RÉSIDENCES UNIVERSITAIRES PRIVÉES:
+
+   Avantages:
+   - Proximité du campus
+   - Sécurité
+   - Services inclus (ménage, WiFi)
+   - Communauté étudiante
+
+   Résidences recommandées près de l'UPF:
+   
+   a) Résidence Al Quaraouiyine:
+      - Distance UPF: 5 minutes à pied
+      - Prix: 1 800-2 500 DH/mois
+      - Chambre individuelle ou double
+      - WiFi, salle d'étude, cafétéria
+      - Contact: +212 5XX XXX XXX
+   
+   b) Résidence Universitaire Fès:
+      - Distance: 10 minutes
+      - Prix: 1 500-2 200 DH/mois
+      - Services: Blanchisserie, salle de sport
+   
+   c) Résidence Ain Chkef:
+      - Distance: 3 minutes
+      - Prix: 2 000-2 800 DH/mois
+      - Moderne, bien équipée
+
+   Procédure de réservation:
+   - Contacter dès juillet-août
+   - Visiter si possible
+   - Réserver avec acompte (500-1 000 DH)
+   - Signer contrat (généralement 10 mois)
+
+2. APPARTEMENT PARTAGÉ (COLOCATION):
+
+   Avantages:
+   - Moins cher
+   - Plus d'indépendance
+   - Expérience de vie en communauté
+
+   Comment trouver:
+   - Groupes Facebook:
+     * "Colocation Fès Étudiants"
+     * "Logement Étudiant Fès"
+     * "UPF - Logement et Colocation"
+   - Avito.ma (section location)
+   - Mubawab.ma
+   - Annonces sur campus UPF
+
+   Prix:
+   - Chambre en colocation: 800-1 500 DH/mois
+   - Charges: 100-300 DH/mois (eau, électricité, internet)
+
+   Conseils:
+   - Rencontrer les colocataires avant
+   - Vérifier l'état de l'appartement
+   - Clarifier les règles (ménage, invités, bruit)
+   - Contrat écrit recommandé
+
+3. STUDIO INDIVIDUEL:
+
+   Avantages:
+   - Totale indépendance
+   - Calme pour étudier
+
+   Inconvénients:
+   - Plus cher
+   - Peut être isolant
+
+   Prix: 2 000-3 500 DH/mois
+   Quartiers recommandés:
+   - Ain Chkef (près UPF)
+   - Route Immouzer
+   - Narjiss
+
+4. LOGEMENT CHEZ L'HABITANT:
+
+   - Chambre chez une famille marocaine
+   - Prix: 1 200-2 000 DH/mois (souvent repas inclus)
+   - Bon pour apprendre la culture
+   - Demander à l'UPF (Service International)
+
+CHECKLIST AVANT DE LOUER:
+
+□ Visiter le logement
+□ Vérifier:
+  - État général (propreté, murs, plomberie)
+  - Équipements (lit, bureau, armoire, cuisine)
+  - Chauffage (important en hiver à Fès)
+  - Sécurité (serrures, quartier)
+  - Internet (qualité du WiFi)
+  - Proximité transports
+□ Lire le contrat attentivement
+□ Négocier le prix si possible
+□ Demander une quittance pour chaque paiement
+□ Prendre photos de l'état initial
+
+BUDGET INSTALLATION:
+- Caution (1-2 mois de loyer): 1 500-3 000 DH
+- 1er mois de loyer: 1 500-2 500 DH
+- Équipements de base (draps, ustensiles): 500-1 000 DH
+- Total: 3 500-6 500 DH
+
+AIDE DE L'UPF:
+- Contacter: logement@upf.ac.ma
+- L'UPF peut fournir une liste de logements
+- Parfois partenariats avec résidences
+
+---
+
+SCÉNARIO 7: Étudiant veut s'impliquer dans la vie associative
+--------------------------------------------------------------
+
+COMMENT S'ENGAGER:
+
+1. DÉCOUVRIR LES CLUBS (Septembre):
+   
+   - Journée des Clubs (1ère semaine de rentrée):
+     * Tous les clubs présentent leurs activités
+     * Stands d'information
+     * Inscriptions sur place
+   
+   - Visiter le Bureau de la Vie Étudiante:
+     * Liste complète des clubs
+     * Calendrier des activités
+
+2. CLUBS DISPONIBLES À L'UPF:
+
+   CLUBS ACADÉMIQUES:
+   - Club Informatique et Technologie:
+     * Hackathons, ateliers de programmation
+     * Projets open source
+     * Conférences tech
+     * Réunions: Mercredis 17h
+   
+   - Club Génie Civil:
+     * Visites de chantiers
+     * Concours de conception
+     * Conférences d'ingénieurs
+   
+   - Club Énergies Renouvelables:
+     * Projets solaires et éoliens
+     * Sensibilisation environnementale
+   
+   - Club Business et Entrepreneuriat:
+     * Business plan competitions
+     * Rencontres avec entrepreneurs
+     * Ateliers pitch et marketing
+   
+   - Club Recherche et Innovation:
+     * Projets de recherche
+     * Participation à des conférences
+     * Publications scientifiques
+
+   CLUBS CULTURELS:
+   - Club Culturel UPF:
+     * Organisation d'événements culturels
+     * Célébration de fêtes nationales
+     * Sorties culturelles (musées, théâtre)
+   
+   - Club Théâtre:
+     * Ateliers d'improvisation
+     * Pièces de théâtre (2-3 par an)
+     * Participation à festivals
+   
+   - Club Musique:
+     * Cours de musique
+     * Concerts sur campus
+     * Groupe de musique étudiant
+   
+   - Club Photographie:
+     * Ateliers photo
+     * Expositions
+     * Couverture d'événements UPF
+
+   CLUBS SPORTIFS:
+   - Club Football:
+     * Entraînements: Mardis et Jeudis 18h
+     * Tournois inter-universités
+   
+   - Club Basketball:
+     * Entraînements: Lundis et Mercredis 18h
+     * Championnats régionaux
+   
+   - Club Fitness:
+     * Séances de sport collectif
+     * Musculation, cardio
+   
+   - Club Arts Martiaux:
+     * Karaté, Taekwondo
+     * Cours débutants et avancés
+
+   ASSOCIATIONS:
+   - Association des Étudiants UPF (AEUPF):
+     * Représentation étudiante
+     * Organisation d'événements majeurs
+     * Défense des droits étudiants
+   
+   - Association Humanitaire:
+     * Actions caritatives
+     * Aide aux populations défavorisées
+     * Collectes de dons
+   
+   - Club Environnement:
+     * Campagnes de sensibilisation
+     * Nettoyage de campus
+     * Projets de développement durable
+
+3. COMMENT REJOINDRE:
+
+   - Assister à une réunion du club
+   - Remplir une fiche d'adhésion
+   - Cotisation annuelle: 0-100 DH selon le club
+   - Recevoir les communications du club
+
+4. S'IMPLIQUER ACTIVEMENT:
+
+   - Participer régulièrement aux activités
+   - Proposer des idées de projets
+   - Rejoindre le bureau du club (élections annuelles)
+   - Organiser des événements
+
+5. CRÉER UN NOUVEAU CLUB:
+
+   Si votre passion n'est pas représentée:
+   
+   Procédure:
+   - Rassembler au moins 10 étudiants intéressés
+   - Rédiger une charte du club (objectifs, activités)
+   - Soumettre au Bureau de la Vie Étudiante
+   - Présenter le projet
+   - Obtenir l'approbation de l'administration
+   - Désigner un bureau (président, trésorier, secrétaire)
+   - Lancer les activités!
+
+AVANTAGES DE L'ENGAGEMENT ASSOCIATIF:
+
+- Développer des compétences (leadership, gestion de projet, communication)
+- Élargir son réseau
+- Enrichir son CV
+- S'amuser et rencontrer des amis
+- Contribuer à la communauté UPF
+- Équilibrer vie académique et personnelle
+
+---
+
+STAGES ET CARRIÈRE
+===================
+
+SCÉNARIO 8: Étudiant en 4ème année Génie Informatique cherche un stage
+-----------------------------------------------------------------------
+
+STRATÉGIE COMPLÈTE:
+
+1. PRÉPARATION (3-4 mois avant):
+
+   a) CV:
+      - Format: 1 page, clair et professionnel
+      - Sections:
+        * Informations personnelles
+        * Formation (UPF, diplômes)
+        * Compétences techniques (langages, outils, frameworks)
+        * Projets académiques et personnels
+        * Expériences (jobs, bénévolat)
+        * Langues
+        * Centres d'intérêt
+      - Faire relire par le Service Stages
+      - Adapter pour chaque candidature
+
+   b) Lettre de motivation:
+      - Template de base à personnaliser
+      - Structure:
+        * Vous (qui je suis, mon parcours)
+        * Eux (pourquoi cette entreprise)
+        * Nous (ce que je peux apporter)
+      - 1 page maximum
+      - Soigner l'orthographe!
+
+   c) Portfolio en ligne:
+      - GitHub: Projets de code
+      - LinkedIn: Profil professionnel
+      - Site web personnel (optionnel mais valorisant)
+
+   d) Compétences:
+      - Renforcer les compétences demandées
+      - Projets personnels pour démontrer capacités
+      - Certifications (si temps): Google, Microsoft, AWS
+
+2. RECHERCHE DE STAGE (2-3 mois avant):
+
+   a) Service Stages UPF:
+      - Email: stages@upf.ac.ma
+      - Consulter les offres disponibles
+      - S'inscrire à la newsletter
+      - Participer aux forums emploi UPF
+
+   b) Entreprises partenaires UPF:
+      - Liste disponible au Service Stages
+      - Candidatures facilitées
+      - Exemples:
+        * Capgemini Maroc
+        * Accenture
+        * Deloitte
+        * Startups tech à Fès, Rabat, Casablanca
+
+   c) Recherche en ligne:
+      - Sites d'emploi:
+        * Rekrute.com
+        * Emploi.ma
+        * LinkedIn Jobs
+        * Bayt.com
+      - Sites d'entreprises (section Carrières)
+      - Groupes Facebook: "Stages Maroc", "Emploi IT Maroc"
+
+   d) Réseau:
+      - Anciens étudiants UPF (Alumni)
+      - Professeurs (peuvent recommander)
+      - Famille et amis
+      - Événements de networking
+
+   e) Candidatures spontanées:
+      - Cibler 20-30 entreprises
+      - Email personnalisé à chaque entreprise
+      - Suivi après 1-2 semaines
+
+3. CANDIDATURE:
+
+   - Postuler à 30-50 offres minimum
+   - Tracker les candidatures (Excel: entreprise, date, statut)
+   - Relancer après 1 semaine si pas de réponse
+
+4. PRÉPARATION AUX ENTRETIENS:
+
+   a) Entretien téléphonique/Skype:
+      - Se présenter en 2 minutes
+      - Expliquer parcours et motivations
+      - Poser des questions sur l'entreprise et le stage
+
+   b) Entretien technique:
+      - Réviser:
+        * Structures de données et algorithmes
+        * Programmation (Java, Python, etc.)
+        * Bases de données
+        * Concepts de génie logiciel
+      - Pratiquer sur:
+        * LeetCode
+        * HackerRank
+        * Codility
+      - Résoudre des problèmes à voix haute (expliquer raisonnement)
+
+   c) Entretien RH:
+      - Questions classiques:
+        * Parlez-moi de vous
+        * Pourquoi cette entreprise?
+        * Vos forces et faiblesses
+        * Où vous voyez-vous dans 5 ans?
+        * Décrivez un défi que vous avez surmonté
+      - Méthode STAR (Situation, Tâche, Action, Résultat)
+      - Préparer des questions à poser
+
+   d) Simulations:
+      - Service Stages UPF offre des simulations d'entretiens
+      - S'entraîner avec des amis
+      - Enregistrer et analyser
+
+5. NÉGOCIATION:
+
+   - Gratification de stage au Maroc:
+     * Légalement: minimum 1 500 DH/mois (si stage >1 mois)
+     * Pratique: 2 000-5 000 DH/mois selon entreprise
+     * Grandes entreprises: jusqu'à 6 000-8 000 DH/mois
+   - Autres avantages:
+     * Transport
+     * Repas
+     * Assurance
+   - Ne pas hésiter à négocier (poliment)
+
+6. FORMALITÉS:
+
+   - Convention de stage (tripartite):
+     * UPF
+     * Entreprise
+     * Étudiant
+   - Retirer au Service Stages
+   - Faire signer par les 3 parties
+   - Remettre une copie à l'UPF avant le début du stage
+
+7. PENDANT LE STAGE:
+
+   - Être ponctuel et professionnel
+   - Poser des questions
+   - Prendre des initiatives
+   - Tenir un journal de bord (pour le rapport)
+   - Réseauter avec collègues
+   - Demander du feedback régulièrement
+
+8. APRÈS LE STAGE:
+
+   - Rédiger le rapport de stage (selon consignes UPF)
+   - Soutenance devant jury
+   - Demander une lettre de recommandation
+   - Rester en contact (LinkedIn)
+   - Possibilité d'embauche après diplôme
+
+TIMELINE RECOMMANDÉE:
+- Décembre: Préparation CV, portfolio
+- Janvier: Début des candidatures
+- Février-Mars: Entretiens
+- Avril: Signature de convention
+- Juin-Août: Stage (généralement 2-3 mois)
+- Septembre: Rapport et soutenance
+
+CONSEILS:
+- Commencer tôt!
+- Ne pas se décourager par les refus (normal)
+- Qualité > Quantité (candidatures ciblées)
+- Utiliser toutes les ressources de l'UPF
+
+---
+
+QUESTIONS FRÉQUENTES - RÉPONSES RAPIDES
+========================================
+
+Q: Comment obtenir un relevé de notes?
+R: Service Scolarité, demande écrite, délai 2-3 jours, gratuit.
+
+Q: J'ai perdu ma carte d'étudiant, que faire?
+R: Déclarer au Service Scolarité, refaire une carte (frais: 50 DH), délai 1 semaine.
+
+Q: Puis-je suivre des cours dans une autre faculté?
+R: Oui, sous réserve de places et accord des deux directeurs. Demande au Service Scolarité.
+
+Q: Comment accéder au WiFi du campus?
+R: Identifiants fournis lors de l'inscription. Problèmes: contacter IT (it@upf.ac.ma).
+
+Q: Y a-t-il une bibliothèque?
+R: Oui, horaires: Lun-Jeu 8h-20h, Ven 8h-18h, Sam 9h-17h. Prêt gratuit avec carte étudiant.
+
+Q: Puis-je reporter un examen pour raison médicale?
+R: Oui, avec certificat médical sous 48h. Contacter le professeur et Service Scolarité.
+
+Q: Comment contacter un professeur?
+R: Email (format: prenom.nom@upf.ac.ma) ou heures de permanence (affichées).
+
+Q: Y a-t-il des activités sportives?
+R: Oui, clubs sportifs et installations disponibles. Inscription gratuite.
+
+Q: Puis-je faire un semestre d'échange à l'étranger?
+R: Oui, programmes d'échange disponibles. Contacter Relations Internationales (international@upf.ac.ma).
+
+Q: Comment obtenir une attestation d'inscription?
+R: Service Scolarité, demande écrite, délivrance immédiate, gratuite.
+
+---
+
+CONTACTS D'URGENCE
+==================
+
+URGENCES MÉDICALES: 112 (numéro d'urgence national)
+POLICE: 19
+POMPIERS: 15
+
+CAMPUS UPF:
+Standard: +212 535 610 320
+Sécurité Campus: +212 535 610 320 (poste 100)
+Service Médical: +212 535 610 320 (poste 150)
+
+SERVICES UPF:
+Admissions: admission@upf.ac.ma
+Scolarité: scolarite@upf.ac.ma
+Stages: stages@upf.ac.ma
+Orientation: orientation@upf.ac.ma
+Financier: finance@upf.ac.ma
+International: international@upf.ac.ma
+
+---
+Document mis à jour: Décembre 2024
+Pour toute question non couverte, contactez: info@upf.ac.ma

@@ -1,0 +1,1061 @@
+UPF - GUIDE DÉTAILLÉ DES DÉPARTEMENTS ET SERVICES
+=================================================
+
+FACULTÉ DES SCIENCES DE L'INGÉNIEUR (FSI)
+------------------------------------------
+
+PRÉSENTATION:
+La Faculté des Sciences de l'Ingénieur forme des ingénieurs d'État hautement qualifiés dans divers domaines technologiques et scientifiques. Les programmes combinent théorie, pratique et innovation.
+
+Email: fsi@upf.ac.ma
+Localisation: Bâtiment principal, Campus UPF Fès
+
+CYCLE PRÉPARATOIRE INTÉGRÉ (CPSI)
+----------------------------------
+Durée: 2 ans
+Frais: 50 000 DH/an
+Frais de test: 500 DH
+
+PROGRAMME:
+Année 1:
+- Mathématiques I (Analyse, Algèbre) - 6 crédits
+- Physique I (Mécanique, Électricité) - 6 crédits
+- Chimie Générale - 4 crédits
+- Informatique I (Programmation C) - 4 crédits
+- Langue et Communication I - 3 crédits
+- Techniques d'Expression - 2 crédits
+
+Année 2:
+- Mathématiques II (Équations différentielles, Probabilités) - 6 crédits
+- Physique II (Thermodynamique, Optique) - 6 crédits
+- Informatique II (Programmation orientée objet) - 4 crédits
+- Électronique de base - 4 crédits
+- Langue et Communication II - 3 crédits
+- Projet de fin de cycle - 3 crédits
+
+CYCLE INGÉNIEUR - GÉNIE CIVIL (GCIV)
+-------------------------------------
+Durée: 3 ans (après CPSI ou équivalent)
+Frais: 60 000 DH/an
+
+SPÉCIALISATIONS:
+- Bâtiments et Travaux Publics
+- Structures et Ouvrages d'Art
+- Géotechnique
+- Gestion de Projets de Construction
+
+COURS PRINCIPAUX:
+Année 3:
+- Résistance des Matériaux - 6 crédits
+- Mécanique des Sols - 5 crédits
+- Topographie et Géodésie - 4 crédits
+- Matériaux de Construction - 4 crédits
+- Dessin Technique et DAO (AutoCAD) - 4 crédits
+- Mathématiques Appliquées - 3 crédits
+
+Année 4:
+- Béton Armé et Précontraint - 6 crédits
+- Construction Métallique - 5 crédits
+- Hydraulique et Hydrologie - 5 crédits
+- Routes et Voiries - 4 crédits
+- Gestion de Projets - 4 crédits
+- Stage technique (1 mois) - 2 crédits
+
+Année 5:
+- Calcul des Structures - 5 crédits
+- Ouvrages d'Art (Ponts, Tunnels) - 5 crédits
+- Bâtiments Intelligents et Durables - 4 crédits
+- Management de la Construction - 4 crédits
+- Projet de Fin d'Études (PFE) - 8 crédits
+- Stage de fin d'études (4-6 mois) - 6 crédits
+
+LABORATOIRES:
+- Laboratoire de Résistance des Matériaux
+- Laboratoire de Géotechnique
+- Laboratoire de Béton et Matériaux
+- Salle de DAO/CAO (AutoCAD, Revit, Robot Structural Analysis)
+
+DÉBOUCHÉS:
+- Ingénieur Génie Civil
+- Chef de Projet BTP
+- Ingénieur Bureau d'Études
+- Conducteur de Travaux
+- Ingénieur Contrôle Qualité
+Salaire moyen de départ: 8 000 - 12 000 DH/mois
+
+CYCLE INGÉNIEUR - GÉNIE DES ÉNERGIES RENOUVELABLES (GERSE)
+-----------------------------------------------------------
+Durée: 3 ans (après CPSI)
+Frais: 60 000 DH/an
+
+SPÉCIALISATIONS:
+- Énergie Solaire (Photovoltaïque et Thermique)
+- Énergie Éolienne
+- Efficacité Énergétique
+- Smart Grids
+
+COURS PRINCIPAUX:
+Année 3:
+- Thermodynamique Avancée - 5 crédits
+- Électrotechnique - 5 crédits
+- Énergies Renouvelables: Introduction - 5 crédits
+- Transfert Thermique - 4 crédits
+- Électronique de Puissance - 4 crédits
+- Programmation MATLAB - 3 crédits
+
+Année 4:
+- Systèmes Photovoltaïques - 6 crédits
+- Énergie Éolienne - 5 crédits
+- Stockage d'Énergie (Batteries, Hydrogène) - 5 crédits
+- Audit Énergétique - 4 crédits
+- Réseaux Électriques Intelligents - 4 crédits
+- Stage technique - 2 crédits
+
+Année 5:
+- Centrales Solaires Thermiques - 5 crédits
+- Gestion et Optimisation Énergétique - 5 crédits
+- Bâtiments à Énergie Positive - 4 crédits
+- Réglementation et Normes Énergétiques - 3 crédits
+- Projet de Fin d'Études - 8 crédits
+- Stage de fin d'études (4-6 mois) - 6 crédits
+
+LABORATOIRES:
+- Laboratoire Énergies Renouvelables
+- Panneaux solaires et onduleurs
+- Simulateurs d'éoliennes
+- Équipements de mesure énergétique
+
+DÉBOUCHÉS:
+- Ingénieur Énergies Renouvelables
+- Consultant en Efficacité Énergétique
+- Chef de Projet Solaire/Éolien
+- Auditeur Énergétique
+Salaire moyen: 9 000 - 14 000 DH/mois
+
+CYCLE INGÉNIEUR - GÉNIE INFORMATIQUE (G.INF)
+---------------------------------------------
+Durée: 5 ans (2 ans CPSI + 3 ans cycle ingénieur) ou 3 ans (après Bac+2)
+Frais: 50 000 DH/an (après Bac) ou 60 000 DH/an (après Bac+2)
+
+SPÉCIALISATIONS:
+- Développement Logiciel
+- Réseaux et Systèmes
+- Intelligence Artificielle
+- Cybersécurité
+
+COURS PRINCIPAUX:
+Année 3:
+- Programmation Avancée (Java, Python) - 6 crédits
+- Structures de Données et Algorithmes - 6 crédits
+- Bases de Données (SQL, NoSQL) - 5 crédits
+- Systèmes d'Exploitation (Linux, Windows) - 5 crédits
+- Réseaux Informatiques - 4 crédits
+- Génie Logiciel - 4 crédits
+
+Année 4:
+- Développement Web (HTML, CSS, JavaScript, React) - 6 crédits
+- Développement Mobile (Android, iOS) - 5 crédits
+- Intelligence Artificielle et Machine Learning - 6 crédits
+- Sécurité Informatique - 5 crédits
+- Cloud Computing (AWS, Azure) - 4 crédits
+- Stage technique (2 mois) - 3 crédits
+
+Année 5:
+- Big Data et Analytics - 5 crédits
+- DevOps et CI/CD - 4 crédits
+- Blockchain et Cryptographie - 4 crédits
+- Gestion de Projets Agile (Scrum) - 3 crédits
+- Projet de Fin d'Études - 8 crédits
+- Stage de fin d'études (4-6 mois) - 6 crédits
+
+LABORATOIRES:
+- Laboratoire Informatique (100+ postes)
+- Serveurs et équipements réseau
+- GPUs pour IA et Machine Learning
+- Logiciels: Visual Studio, IntelliJ, PyCharm, Eclipse
+
+CERTIFICATIONS PRÉPARÉES:
+- Oracle Certified Professional (OCP)
+- AWS Certified Solutions Architect
+- CompTIA Network+
+- Cisco CCNA
+
+DÉBOUCHÉS:
+- Ingénieur Développement Logiciel
+- Data Scientist
+- Architecte Cloud
+- Ingénieur DevOps
+- Consultant IT
+Salaire moyen: 10 000 - 18 000 DH/mois
+
+CYCLE INGÉNIEUR - INGÉNIERIE AUTOMOBILE, AVIONIQUE ET ROBOTIQUE (IAAR)
+-----------------------------------------------------------------------
+Durée: 3 ans (après CPSI)
+Frais: 60 000 DH/an
+
+SPÉCIALISATIONS:
+- Automobile et Véhicules Électriques
+- Systèmes Avioniques
+- Robotique et Automatisation
+- Systèmes Embarqués
+
+COURS PRINCIPAUX:
+- Mécanique Automobile
+- Électronique Embarquée
+- Systèmes de Contrôle et Automatisation
+- Robotique Industrielle
+- Aérodynamique
+- Systèmes de Navigation
+- Intelligence Artificielle pour Robotique
+- Projet de Fin d'Études
+
+LABORATOIRES:
+- Laboratoire Robotique (bras robotiques, drones)
+- Atelier Automobile
+- Simulateurs de vol
+- Équipements de prototypage
+
+DÉBOUCHÉS:
+- Ingénieur Automobile
+- Ingénieur Robotique
+- Ingénieur Systèmes Embarqués
+- Ingénieur Aéronautique
+Salaire moyen: 10 000 - 16 000 DH/mois
+
+MASTER EN INTELLIGENCE ARTIFICIELLE ET DATA SCIENCE (IADS)
+-----------------------------------------------------------
+Durée: 2 ans
+Frais: 50 000 DH/an
+Accès: Licence en Informatique, Mathématiques ou domaine connexe
+
+PROGRAMME:
+Semestre 1:
+- Machine Learning Avancé - 6 crédits
+- Deep Learning - 6 crédits
+- Traitement du Langage Naturel (NLP) - 5 crédits
+- Big Data Technologies (Hadoop, Spark) - 5 crédits
+- Mathématiques pour l'IA - 4 crédits
+
+Semestre 2:
+- Computer Vision - 6 crédits
+- Reinforcement Learning - 5 crédits
+- Data Mining et Analytics - 5 crédits
+- Cloud Computing pour l'IA - 4 crédits
+- Éthique et IA - 3 crédits
+- Projet de recherche - 3 crédits
+
+Semestre 3:
+- IA pour le Business - 5 crédits
+- Systèmes de Recommandation - 4 crédits
+- Time Series Analysis - 4 crédits
+- MLOps et Déploiement de Modèles - 4 crédits
+- Séminaires de recherche - 3 crédits
+- Stage (3 mois) - 6 crédits
+
+Semestre 4:
+- Projet de Fin d'Études (PFE) - 20 crédits
+- Stage de fin d'études (6 mois) - 10 crédits
+
+OUTILS ET TECHNOLOGIES:
+- Python (TensorFlow, PyTorch, Scikit-learn)
+- R pour analyse statistique
+- Jupyter Notebooks
+- GPUs NVIDIA pour entraînement de modèles
+- Plateformes Cloud (AWS, Google Cloud, Azure)
+
+DÉBOUCHÉS:
+- Data Scientist
+- Ingénieur Machine Learning
+- Ingénieur IA
+- Consultant Analytics
+- Chercheur en IA
+Salaire moyen: 12 000 - 20 000 DH/mois
+
+---
+
+FÈS BUSINESS SCHOOL (FBS)
+--------------------------
+
+PRÉSENTATION:
+Fès Business School forme des managers, entrepreneurs et leaders dans divers domaines du commerce et de la gestion.
+
+Email: fbs@upf.ac.ma
+Accréditation: Programmes alignés sur les standards ENCG
+
+LICENCES PROFESSIONNELLES (Bac+3)
+----------------------------------
+
+1. LICENCE EN GESTION COMPTABLE ET FISCALE
+Durée: 3 ans
+Objectif: Former des comptables et fiscalistes
+
+Cours principaux:
+- Comptabilité Générale et Analytique
+- Comptabilité des Sociétés
+- Fiscalité d'Entreprise (IS, TVA, IR)
+- Audit et Contrôle de Gestion
+- Droit des Affaires
+- Logiciels Comptables (Sage, Ciel)
+
+Débouchés:
+- Comptable
+- Contrôleur de Gestion
+- Auditeur Junior
+- Fiscaliste
+Salaire: 5 000 - 8 000 DH/mois
+
+2. LICENCE EN FINANCE - BANQUE - ASSURANCE
+Durée: 3 ans
+Objectif: Former des professionnels de la finance
+
+Cours principaux:
+- Marchés Financiers
+- Gestion de Portefeuille
+- Produits Bancaires et Assurance
+- Analyse Financière
+- Risques Financiers
+- Réglementation Bancaire
+
+Débouchés:
+- Conseiller Bancaire
+- Chargé de Clientèle
+- Analyste Financier
+- Gestionnaire d'Assurances
+Salaire: 6 000 - 10 000 DH/mois
+
+3. LICENCE EN COMMERCE - VENTE - MARKETING
+Durée: 3 ans
+Objectif: Former des professionnels du marketing et de la vente
+
+Cours principaux:
+- Marketing Fondamental
+- Marketing Digital et Réseaux Sociaux
+- Techniques de Vente et Négociation
+- Comportement du Consommateur
+- Communication et Publicité
+- E-commerce
+
+Débouchés:
+- Responsable Marketing
+- Commercial
+- Community Manager
+- Chef de Produit Junior
+Salaire: 5 000 - 9 000 DH/mois
+
+4. LICENCE EN LOGISTIQUE ET TRANSPORT
+Durée: 3 ans
+Objectif: Former des spécialistes de la supply chain
+
+Cours principaux:
+- Gestion des Stocks et Approvisionnements
+- Transport et Distribution
+- Logistique Internationale
+- Gestion d'Entrepôts
+- Supply Chain Management
+- Systèmes d'Information Logistique
+
+Débouchés:
+- Responsable Logistique
+- Gestionnaire de Stock
+- Coordinateur Transport
+- Supply Chain Analyst
+Salaire: 6 000 - 10 000 DH/mois
+
+5. LICENCE EN ADMINISTRATION DES AFFAIRES
+Durée: 3 ans
+Objectif: Formation généraliste en management
+
+Cours principaux:
+- Management des Organisations
+- Gestion des Ressources Humaines
+- Stratégie d'Entreprise
+- Entrepreneuriat
+- Gestion de Projets
+- Leadership
+
+Débouchés:
+- Assistant Manager
+- Chef de Projet
+- Entrepreneur
+- Consultant Junior
+Salaire: 5 500 - 9 000 DH/mois
+
+DIPLÔMES ENCG (Bac+5)
+---------------------
+
+1. COMPTABILITÉ, CONTRÔLE ET AUDIT
+Durée: 5 ans
+Niveau: Équivalent Master
+
+Programme:
+- Comptabilité Approfondie
+- Audit Financier et Opérationnel
+- Contrôle de Gestion Stratégique
+- Normes IFRS et IAS
+- Consolidation des Comptes
+- Systèmes d'Information Comptable
+
+Certifications préparées:
+- Expert-Comptable (préparation)
+- Auditeur Certifié
+
+Débouchés:
+- Expert-Comptable
+- Auditeur Senior
+- Directeur Financier
+- Contrôleur de Gestion
+Salaire: 10 000 - 18 000 DH/mois
+
+2. SUPPLY CHAIN MANAGEMENT
+Durée: 5 ans
+Focus: Gestion avancée de la chaîne logistique
+
+Programme:
+- Stratégie Supply Chain
+- Optimisation Logistique
+- Achats et Approvisionnements Stratégiques
+- Lean Management et Six Sigma
+- Logistique 4.0 et Digitalisation
+- Gestion des Risques Supply Chain
+
+Débouchés:
+- Supply Chain Manager
+- Directeur Logistique
+- Consultant Supply Chain
+- Responsable Achats
+Salaire: 12 000 - 20 000 DH/mois
+
+3. MANAGEMENT DES RESSOURCES HUMAINES
+Durée: 5 ans
+Focus: Gestion stratégique du capital humain
+
+Programme:
+- GRH Stratégique
+- Recrutement et Gestion des Talents
+- Formation et Développement
+- Droit Social et Relations de Travail
+- Rémunération et Avantages Sociaux
+- SIRH (Systèmes d'Information RH)
+
+Débouchés:
+- Responsable RH
+- Consultant RH
+- Chargé de Recrutement
+- Responsable Formation
+Salaire: 10 000 - 16 000 DH/mois
+
+4. BUSINESS DIGITAL MARKETING
+Durée: 5 ans
+Focus: Marketing digital et e-business
+
+Programme:
+- Stratégie Marketing Digital
+- SEO/SEA et Référencement
+- Social Media Marketing
+- E-commerce et Marketplaces
+- Data Analytics et Web Analytics
+- Content Marketing et Inbound Marketing
+
+Certifications:
+- Google Analytics
+- Google Ads
+- HubSpot Inbound Marketing
+- Facebook Blueprint
+
+Débouchés:
+- Digital Marketing Manager
+- Growth Hacker
+- SEO/SEA Specialist
+- E-commerce Manager
+Salaire: 10 000 - 18 000 DH/mois
+
+5. INGÉNIERIE FINANCIÈRE
+Durée: 5 ans
+Focus: Finance avancée et ingénierie
+
+Programme:
+- Finance de Marché
+- Produits Dérivés et Structurés
+- Gestion de Risques Financiers
+- Évaluation d'Entreprises (M&A)
+- Private Equity et Venture Capital
+- Modélisation Financière
+
+Débouchés:
+- Ingénieur Financier
+- Analyste Investissement
+- Trader
+- Risk Manager
+Salaire: 12 000 - 22 000 DH/mois
+
+MASTERS SPÉCIALISÉS
+-------------------
+
+1. MASTER EN MANAGEMENT HOSPITALIER
+Durée: 2 ans
+Public: Professionnels de santé, gestionnaires
+
+Programme:
+- Management des Établissements de Santé
+- Économie de la Santé
+- Qualité et Accréditation Hospitalière
+- Systèmes d'Information Hospitaliers
+- Gestion des Ressources Humaines en Santé
+- Droit Hospitalier
+
+Débouchés:
+- Directeur d'Hôpital
+- Gestionnaire d'Établissement de Santé
+- Consultant Santé
+Salaire: 12 000 - 20 000 DH/mois
+
+2. MASTER EN INGÉNIERIE DES AFFAIRES
+Durée: 2 ans
+Focus: Management stratégique et entrepreneuriat
+
+Programme:
+- Stratégie d'Entreprise
+- Business Development
+- Innovation et Entrepreneuriat
+- Négociation et Vente Complexe
+- Gestion de Projets Internationaux
+- Leadership et Management d'Équipes
+
+Débouchés:
+- Business Developer
+- Entrepreneur
+- Consultant Stratégique
+- Chef de Projet Senior
+Salaire: 12 000 - 20 000 DH/mois
+
+---
+
+FACULTÉ DE MÉDECINE DENTAIRE
+-----------------------------
+
+PRÉSENTATION:
+Formation complète en médecine dentaire sur 6 ans, avec un cursus théorique et pratique intensif.
+
+Email: medecine.dentaire@upf.ac.ma
+
+DOCTORAT EN MÉDECINE DENTAIRE
+------------------------------
+Durée totale: 6 ans
+1er Cycle: 3 ans (100 000 DH/an)
+2ème Cycle: 3 ans (110 000 DH/an)
+Frais de concours: 1 000 DH
+
+ADMISSION:
+- Concours d'entrée très sélectif
+- Baccalauréat Sciences Mathématiques ou Sciences Expérimentales
+- Note minimale au Bac: 12/20
+- Présélection: 75% note nationale + 25% note régionale
+- Concours écrit: 4 épreuves (Biologie, Chimie, Physique, Mathématiques)
+
+PROGRAMME - 1ER CYCLE (Années 1-3):
+Année 1:
+- Anatomie Générale - 8 crédits
+- Biologie Cellulaire et Moléculaire - 6 crédits
+- Chimie Organique et Biochimie - 6 crédits
+- Histologie - 5 crédits
+- Physiologie Générale - 5 crédits
+- Initiation aux Sciences Dentaires - 3 crédits
+
+Année 2:
+- Anatomie de la Tête et du Cou - 8 crédits
+- Physiologie Oro-Faciale - 6 crédits
+- Microbiologie et Immunologie - 6 crédits
+- Pathologie Générale - 5 crédits
+- Pharmacologie - 5 crédits
+- Matériaux Dentaires - 4 crédits
+
+Année 3:
+- Prothèse Dentaire I - 7 crédits
+- Odontologie Conservatrice I - 7 crédits
+- Parodontologie I - 6 crédits
+- Chirurgie Buccale I - 6 crédits
+- Radiologie Dentaire - 4 crédits
+- Stage Clinique I - 4 crédits
+
+PROGRAMME - 2ÈME CYCLE (Années 4-6):
+Année 4:
+- Prothèse Dentaire II - 8 crédits
+- Odontologie Conservatrice II - 7 crédits
+- Parodontologie II - 6 crédits
+- Orthodontie I - 6 crédits
+- Chirurgie Buccale II - 5 crédits
+- Stage Clinique II - 6 crédits
+
+Année 5:
+- Prothèse Complète et Partielle - 8 crédits
+- Endodontie Avancée - 7 crédits
+- Orthodontie II - 6 crédits
+- Implantologie Dentaire - 6 crédits
+- Pédodontie - 5 crédits
+- Stage Clinique III - 8 crédits
+
+Année 6:
+- Spécialisation Clinique - 10 crédits
+- Gestion de Cabinet Dentaire - 4 crédits
+- Éthique et Déontologie - 3 crédits
+- Recherche et Mémoire - 6 crédits
+- Stage Clinique Final - 12 crédits
+
+ÉQUIPEMENTS:
+- Clinique dentaire moderne sur le campus
+- Unités dentaires complètes
+- Équipements de radiologie numérique
+- Laboratoire de prothèse
+- Simulateurs pour formation pratique
+
+DÉBOUCHÉS:
+- Chirurgien-Dentiste (Cabinet privé)
+- Dentiste Hospitalier
+- Spécialiste (Orthodontie, Implantologie, Parodontologie)
+- Enseignant-Chercheur
+Salaire: 15 000 - 40 000+ DH/mois (selon activité)
+
+---
+
+FACULTÉ DES SCIENCES PARAMÉDICALES
+-----------------------------------
+
+Email: paramedical@upf.ac.ma
+
+LICENCE EN SCIENCES INFIRMIÈRES
+--------------------------------
+Spécialités:
+1. Gériatrie
+2. Polyvalent
+3. Anesthésie et Réanimation
+
+Durée: 3 ans
+Frais: 32 000 DH/an
+Frais de test: 500 DH
+
+Programme:
+- Anatomie et Physiologie
+- Soins Infirmiers Fondamentaux
+- Pharmacologie
+- Hygiène et Prévention
+- Soins d'Urgence
+- Stages Hospitaliers (50% du cursus)
+
+Débouchés:
+- Infirmier(ère) Hospitalier
+- Infirmier(ère) en Gériatrie
+- Infirmier(ère) Anesthésiste
+- Infirmier(ère) Libéral
+Salaire: 4 500 - 8 000 DH/mois
+
+LICENCE EN TECHNOLOGIE DE LABORATOIRES BIOMÉDICAUX
+---------------------------------------------------
+Durée: 3 ans
+Frais: 32 000 DH/an
+Frais de test: 500 DH
+
+Programme:
+- Biochimie Clinique
+- Hématologie
+- Microbiologie Médicale
+- Immunologie
+- Parasitologie
+- Techniques d'Analyse Biomédicale
+
+Débouchés:
+- Technicien de Laboratoire
+- Biologiste Assistant
+- Responsable Qualité Laboratoire
+Salaire: 5 000 - 9 000 DH/mois
+
+LICENCE EN DIÉTÉTIQUE ET NUTRITION
+-----------------------------------
+Durée: 3 ans
+Frais: 32 000 DH/an
+Frais de test: 500 DH
+
+Programme:
+- Nutrition Humaine
+- Diététique Thérapeutique
+- Biochimie Nutritionnelle
+- Alimentation et Santé
+- Éducation Nutritionnelle
+- Stages en Milieu Hospitalier
+
+Débouchés:
+- Diététicien(ne)
+- Nutritionniste
+- Consultant en Nutrition
+- Responsable Restauration Collective
+Salaire: 5 000 - 10 000 DH/mois
+
+LICENCE EN PSYCHOLOGIE
+-----------------------
+Durée: 3 ans
+Frais: 40 000 DH/an
+Frais de test: 500 DH
+Accès: Toutes séries de Baccalauréat
+
+Programme:
+- Psychologie Générale
+- Psychologie du Développement
+- Psychologie Sociale
+- Psychopathologie
+- Neuropsychologie
+- Méthodes de Recherche en Psychologie
+- Stages Pratiques
+
+Débouchés:
+- Psychologue Clinicien (après Master)
+- Psychologue Scolaire
+- Psychologue du Travail
+- Conseiller d'Orientation
+Salaire: 6 000 - 12 000 DH/mois
+
+MASTER EN PSYCHOLOGIE CLINIQUE
+-------------------------------
+Durée: 2 ans
+Frais: 50 000 DH/an
+Accès: Licence en Psychologie
+
+Programme:
+- Psychopathologie Avancée
+- Psychothérapies (TCC, Psychanalyse, Systémique)
+- Évaluation Psychologique
+- Neuropsychologie Clinique
+- Psychologie de l'Enfant et de l'Adolescent
+- Supervision et Pratique Clinique
+- Mémoire de Recherche
+
+Débouchés:
+- Psychologue Clinicien
+- Psychothérapeute
+- Psychologue Hospitalier
+- Chercheur en Psychologie
+Salaire: 8 000 - 15 000 DH/mois
+
+---
+
+ÉCOLE D'ARCHITECTURE ET DU BÂTIMENT
+------------------------------------
+
+Email: architecture@upf.ac.ma
+
+PROGRAMMES:
+1. Architecture d'Intérieur et Design (AID)
+2. Urbanisme et Aménagement (UA)
+3. Architecture du Paysage (AP)
+
+Durée: 5 ans
+Frais Tronc Commun: 50 000 DH/an
+Frais de concours: 500 DH
+
+PROGRAMME TRONC COMMUN (Années 1-2):
+- Dessin Technique et Artistique
+- Histoire de l'Architecture
+- Mathématiques et Géométrie Descriptive
+- Matériaux de Construction
+- Initiation à la CAO (AutoCAD, SketchUp)
+- Maquettes et Modélisation 3D
+- Projet d'Architecture I et II
+
+SPÉCIALISATION ARCHITECTURE D'INTÉRIEUR (Années 3-5):
+- Design d'Espaces Intérieurs
+- Aménagement Commercial et Résidentiel
+- Éclairage et Acoustique
+- Mobilier et Décoration
+- Logiciels: 3ds Max, V-Ray, Photoshop
+- Projets Clients Réels
+- Stage et Projet de Fin d'Études
+
+SPÉCIALISATION URBANISME (Années 3-5):
+- Planification Urbaine
+- Aménagement du Territoire
+- Mobilité et Transport Urbain
+- Développement Durable
+- SIG (Systèmes d'Information Géographique)
+- Projets Urbains
+- Stage et PFE
+
+SPÉCIALISATION ARCHITECTURE DU PAYSAGE (Années 3-5):
+- Conception de Jardins et Espaces Verts
+- Écologie et Environnement
+- Horticulture et Botanique
+- Aménagements Paysagers Urbains
+- Gestion de l'Eau et Irrigation
+- Projets Paysagers
+- Stage et PFE
+
+ÉQUIPEMENTS:
+- Ateliers de dessin et maquettes
+- Laboratoire informatique (AutoCAD, Revit, SketchUp, 3ds Max)
+- Imprimantes 3D
+- Bibliothèque spécialisée en architecture
+
+DÉBOUCHÉS:
+- Architecte d'Intérieur
+- Designer
+- Urbaniste
+- Paysagiste
+- Chef de Projet Aménagement
+Salaire: 7 000 - 15 000 DH/mois
+
+---
+
+AMERICAN INTERNATIONAL INSTITUTE (AII)
+---------------------------------------
+
+PRÉSENTATION:
+Partenariat stratégique avec Arizona State University (ASU), offrant des programmes en anglais avec double diplôme marocain et américain.
+
+Email: aii@upf.ac.ma
+Langue d'enseignement: Anglais
+
+BACHELOR IN SOFTWARE ENGINEERING
+---------------------------------
+Durée: 4 ans (Format 3+1)
+Option 1: 3 ans à Fès + 1 an à ASU Arizona
+Option 2: 3 ans à Fès + 1 an en ligne (ASU Online)
+
+Programme:
+- Programming Fundamentals (Python, Java, C++)
+- Data Structures and Algorithms
+- Software Engineering Principles
+- Web Development (Full Stack)
+- Mobile App Development
+- Cloud Computing
+- Artificial Intelligence
+- Cybersecurity Fundamentals
+- Capstone Project
+
+Diplômes obtenus:
+- Diplôme d'Ingénieur UPF
+- Bachelor of Science in Software Engineering (ASU)
+
+Débouchés:
+- Software Engineer (International)
+- Full Stack Developer
+- Cloud Architect
+- Tech Lead
+Salaire: 15 000 - 30 000 DH/mois (Maroc) ou $60,000-$100,000/an (USA)
+
+BACHELOR IN INTERNATIONAL BUSINESS
+-----------------------------------
+Durée: 4 ans
+Langue: Anglais
+
+Programme:
+- International Marketing
+- Global Supply Chain Management
+- Cross-Cultural Management
+- International Finance
+- Business Analytics
+- E-commerce and Digital Business
+- Entrepreneurship
+- Study Abroad Opportunities
+
+Débouchés:
+- International Business Manager
+- Export Manager
+- Business Analyst
+- Entrepreneur
+Salaire: 10 000 - 18 000 DH/mois
+
+MASTER IN ARTIFICIAL INTELLIGENCE IN BUSINESS
+----------------------------------------------
+Durée: 2 ans
+Langue: Anglais
+
+Programme:
+- Machine Learning for Business
+- AI Strategy and Implementation
+- Business Analytics and Big Data
+- AI Ethics and Governance
+- Natural Language Processing Applications
+- Computer Vision for Business
+- AI Project Management
+- Thesis/Capstone
+
+Débouchés:
+- AI Business Consultant
+- Data Science Manager
+- AI Product Manager
+- Chief AI Officer
+Salaire: 15 000 - 25 000 DH/mois
+
+MASTER IN CYBERSECURITY
+-----------------------
+Durée: 2 ans
+Langue: Anglais
+
+Programme:
+- Network Security
+- Ethical Hacking and Penetration Testing
+- Cryptography
+- Digital Forensics
+- Security Operations Center (SOC)
+- Incident Response
+- Cloud Security
+- Thesis/Capstone
+
+Certifications préparées:
+- CEH (Certified Ethical Hacker)
+- CISSP (Certified Information Systems Security Professional)
+- CompTIA Security+
+
+Débouchés:
+- Cybersecurity Analyst
+- Penetration Tester
+- Security Architect
+- CISO (Chief Information Security Officer)
+Salaire: 15 000 - 28 000 DH/mois
+
+---
+
+SERVICES AUX ÉTUDIANTS
+----------------------
+
+SERVICE D'ORIENTATION ET D'ACCOMPAGNEMENT
+------------------------------------------
+Email: orientation@upf.ac.ma
+
+Services:
+- Orientation académique et professionnelle
+- Accompagnement personnalisé
+- Ateliers de développement personnel
+- Coaching individuel
+- Aide à la réorientation
+
+Disponibilité: Lundi-Vendredi, 9h-17h
+
+SERVICE DES STAGES ET DE L'EMPLOI
+----------------------------------
+Email: stages@upf.ac.ma
+
+Services:
+- Recherche de stages
+- Mise en relation avec entreprises partenaires
+- Ateliers CV et lettre de motivation
+- Simulations d'entretiens
+- Job dating et forums emploi
+- Suivi des stages
+
+Entreprises partenaires:
+- Multinationales (Renault, Schneider Electric, Capgemini)
+- PME marocaines
+- Startups
+- Institutions publiques
+
+SERVICE MÉDICAL
+---------------
+Localisation: Bâtiment Services, Rez-de-chaussée
+
+Services:
+- Consultations médicales générales
+- Soins d'urgence
+- Certificats médicaux
+- Orientation vers spécialistes
+- Prévention et sensibilisation
+
+Horaires: Lundi-Vendredi, 9h-16h
+Urgences: Infirmerie disponible pendant les heures de cours
+
+BIBLIOTHÈQUE UNIVERSITAIRE
+---------------------------
+Email: bibliotheque@upf.ac.ma
+
+Collections:
+- 20 000+ ouvrages (français, anglais, arabe)
+- Revues scientifiques et professionnelles
+- Bases de données électroniques
+- Mémoires et thèses
+- Ressources numériques
+
+Services:
+- Prêt de livres (3 semaines)
+- Espaces de travail individuel et en groupe
+- Salles de lecture silencieuses
+- Accès WiFi
+- Impression et photocopie
+- Aide à la recherche documentaire
+
+Horaires:
+- Lundi-Jeudi: 8h-20h
+- Vendredi: 8h-18h
+- Samedi: 9h-17h
+- Dimanche: Fermé
+- Horaires étendus pendant les examens
+
+CAFÉTÉRIA ET RESTAURATION
+--------------------------
+
+Services:
+- Cafétéria principale
+- Snack-bar
+- Distributeurs automatiques
+
+Options:
+- Menus variés (marocain, international)
+- Options végétariennes
+- Sandwichs et salades
+- Boissons chaudes et froides
+- Pâtisseries
+
+Prix: 15 - 40 DH par repas
+
+CLUBS ET ASSOCIATIONS ÉTUDIANTES
+---------------------------------
+
+CLUBS ACADÉMIQUES:
+- Club Informatique et Technologie
+- Club Génie Civil
+- Club Énergies Renouvelables
+- Club Business et Entrepreneuriat
+- Club Recherche et Innovation
+
+CLUBS CULTURELS:
+- Club Culturel UPF
+- Club Théâtre
+- Club Musique
+- Club Photographie
+- Club Cinéma
+
+CLUBS SPORTIFS:
+- Club Football
+- Club Basketball
+- Club Volleyball
+- Club Fitness
+- Club Arts Martiaux
+
+ASSOCIATIONS:
+- Association des Étudiants UPF (AEUPF)
+- Association des Étudiants Ingénieurs
+- Association Humanitaire
+- Club Environnement et Développement Durable
+
+Activités:
+- Événements culturels
+- Compétitions sportives
+- Hackathons et concours
+- Sorties et excursions
+- Actions caritatives
+
+---
+
+CONTACT RAPIDE PAR SERVICE
+---------------------------
+
+ADMISSIONS: admission@upf.ac.ma | +212 535 610 320
+SCOLARITÉ: scolarite@upf.ac.ma
+SERVICE FINANCIER: finance@upf.ac.ma
+STAGES: stages@upf.ac.ma
+BIBLIOTHÈQUE: bibliotheque@upf.ac.ma
+RELATIONS INTERNATIONALES: international@upf.ac.ma
+FORMATION CONTINUE: formation.continue@upf.ac.ma
+SERVICE MÉDICAL: medical@upf.ac.ma
+
+URGENCES CAMPUS: +212 535 610 320 (poste 100)
+
+---
+Document mis à jour: Décembre 2024
+Pour plus d'informations: www.upf.ac.ma

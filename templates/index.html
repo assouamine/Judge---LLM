@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLM-as-a-Judge: Neo-Brutalist</title>
+    <meta name="description" content="RAG vs Non-RAG Evaluator">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <!-- Using a bold, quirky font for Neo-Brutalist look, or just standard bold sans -->
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="main-layout">
+        <!-- Sidebar / Header Area -->
+        <header class="sidebar">
+            <div class="brand-box">
+                <h1 class="title">LLM JUDGE</h1>
+                <div class="subtitle">RAG vs NON-RAG</div>
+            </div>
+            
+            <div class="input-container">
+                <label for="questionInput" class="input-label">YOUR QUESTION</label>
+                <textarea id="questionInput" class="question-input"
+                    placeholder="Type your question here..."
+                    rows="5"></textarea>
+                <button id="evaluateBtn" class="btn-primary">
+                    EVALUATE NOW
+                </button>
+            </div>
+        </header>
+
+        <!-- Content Area -->
+        <main class="content-area">
+            
+            <!-- Loading State -->
+            <div id="loadingState" class="loading-state hidden">
+                <div class="loader-box">
+                    <p>PROCESSING...</p>
+                    <div class="loader-bar"></div>
+                </div>
+            </div>
+
+            <!-- Results Section -->
+            <section id="resultsSection" class="results-section hidden">
+                
+                <!-- Winner Banner -->
+                <div id="winnerCard" class="winner-banner">
+                    <div class="winner-header">WINNER DECLARED</div>
+                    <h2 class="winner-name" id="winnerName"></h2>
+                    <p id="winnerReason" class="winner-reason"></p>
+                </div>
+
+                <!-- Answers Grid -->
+                <div class="answers-grid">
+                    <div class="answer-box">
+                        <div class="box-header">NON-RAG ANSWER</div>
+                        <div id="nonRagAnswer" class="box-content"></div>
+                        <div class="box-footer">
+                            Justification: <span id="nonRagJustification"></span>
+                        </div>
+                    </div>
+
+                    <div class="answer-box">
+                        <div class="box-header">RAG ANSWER</div>
+                        <div id="ragAnswer" class="box-content"></div>
+                        <div class="box-footer">
+                            <div class="docs-count">DOCS: <span id="docsCount">0</span></div>
+                            Justification: <span id="ragJustification"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Evaluation Table -->
+                <div class="table-wrapper">
+                    <h3 class="section-header">SCORECARD</h3>
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th>MODEL</th>
+                                <th>ACC</th>
+                                <th>COMP</th>
+                                <th>REL</th>
+                                <th>CLAR</th>
+                                <th>GRND</th>
+                                <th>AVG</th>
+                            </tr>
+                        </thead>
+                        <tbody id="scoresTableBody">
+                            <!-- Populated by JavaScript -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- JSON Output -->
+                <div class="json-box">
+                    <div class="json-header">
+                        <span>RAW JSON</span>
+                        <button id="copyJsonBtn" class="btn-small">COPY</button>
+                    </div>
+                    <pre id="jsonOutput" class="json-content"></pre>
+                </div>
+
+            </section>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>
